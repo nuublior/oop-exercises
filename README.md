@@ -8,5 +8,5 @@ Nyttige links:
 - [Er det jul?](https://isitchristmas.com)
 - [Nyt Testlink](https://www.hltv.org/)
 ## Eksempel formatering:
-1. *Kursiv* fremhævning.
-2. **Fed** fremhævning.
+1. *italics* fremhævning
+2. **bold** fremhævning
