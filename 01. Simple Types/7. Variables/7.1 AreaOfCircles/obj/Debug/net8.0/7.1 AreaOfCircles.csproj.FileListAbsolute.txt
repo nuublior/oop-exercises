@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/bin/Debug/net8.0/7.1 AreaOfCircles
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/bin/Debug/net8.0/7.1 AreaOfCircles.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/bin/Debug/net8.0/7.1 AreaOfCircles.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/bin/Debug/net8.0/7.1 AreaOfCircles.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/bin/Debug/net8.0/7.1 AreaOfCircles.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/7.1 AreaOfCircles.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/7.1 AreaOfCircles.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/7.1 AreaOfCircles.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/7.1 AreaOfCircles.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/7.1 AreaOfCircles.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/7.1 AreaOfCircles.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/refint/7.1 AreaOfCircles.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/7.1 AreaOfCircles.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/7.1 AreaOfCircles.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.1 AreaOfCircles/obj/Debug/net8.0/ref/7.1 AreaOfCircles.dll

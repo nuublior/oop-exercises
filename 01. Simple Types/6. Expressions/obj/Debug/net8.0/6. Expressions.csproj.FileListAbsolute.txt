@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/bin/Debug/net8.0/6. Expressions
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/bin/Debug/net8.0/6. Expressions.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/bin/Debug/net8.0/6. Expressions.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/bin/Debug/net8.0/6. Expressions.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/bin/Debug/net8.0/6. Expressions.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/6. Expressions.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/6. Expressions.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/6. Expressions.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/6. Expressions.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/6. Expressions.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/6. Expressions.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/refint/6. Expressions.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/6. Expressions.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/6. Expressions.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/6. Expressions/obj/Debug/net8.0/ref/6. Expressions.dll

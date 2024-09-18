@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/bin/Debug/net8.0/7.2 SumAreaOfCircles
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/bin/Debug/net8.0/7.2 SumAreaOfCircles.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/bin/Debug/net8.0/7.2 SumAreaOfCircles.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/bin/Debug/net8.0/7.2 SumAreaOfCircles.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/bin/Debug/net8.0/7.2 SumAreaOfCircles.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/7.2 SumAreaOfCircles.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/7.2 SumAreaOfCircles.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/7.2 SumAreaOfCircles.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/7.2 SumAreaOfCircles.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/7.2 SumAreaOfCircles.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/7.2 SumAreaOfCircles.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/refint/7.2 SumAreaOfCircles.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/7.2 SumAreaOfCircles.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/7.2 SumAreaOfCircles.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.2 SumAreaOfCircles/obj/Debug/net8.0/ref/7.2 SumAreaOfCircles.dll

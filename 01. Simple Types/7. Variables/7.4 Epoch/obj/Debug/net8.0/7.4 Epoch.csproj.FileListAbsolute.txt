@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/bin/Debug/net8.0/7.4 Epoch
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/bin/Debug/net8.0/7.4 Epoch.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/bin/Debug/net8.0/7.4 Epoch.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/bin/Debug/net8.0/7.4 Epoch.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/bin/Debug/net8.0/7.4 Epoch.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/7.4 Epoch.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/7.4 Epoch.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/7.4 Epoch.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/7.4 Epoch.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/7.4 Epoch.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/7.4 Epoch.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/refint/7.4 Epoch.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/7.4 Epoch.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/7.4 Epoch.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.4 Epoch/obj/Debug/net8.0/ref/7.4 Epoch.dll

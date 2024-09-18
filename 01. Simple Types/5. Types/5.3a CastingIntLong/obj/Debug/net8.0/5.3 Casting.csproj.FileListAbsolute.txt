@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/bin/Debug/net8.0/5.3 Casting
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/bin/Debug/net8.0/5.3 Casting.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/bin/Debug/net8.0/5.3 Casting.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/bin/Debug/net8.0/5.3 Casting.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/bin/Debug/net8.0/5.3 Casting.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/5.3 Casting.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/5.3 Casting.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/5.3 Casting.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/5.3 Casting.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/5.3 Casting.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/5.3 Casting.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/refint/5.3 Casting.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/5.3 Casting.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/5.3 Casting.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3 Casting/obj/Debug/net8.0/ref/5.3 Casting.dll

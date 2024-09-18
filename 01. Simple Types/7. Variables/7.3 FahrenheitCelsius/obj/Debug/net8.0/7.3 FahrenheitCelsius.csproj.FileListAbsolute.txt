@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/bin/Debug/net8.0/7.3 FahrenheitCelsius
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/bin/Debug/net8.0/7.3 FahrenheitCelsius.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/bin/Debug/net8.0/7.3 FahrenheitCelsius.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/bin/Debug/net8.0/7.3 FahrenheitCelsius.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/bin/Debug/net8.0/7.3 FahrenheitCelsius.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/7.3 FahrenheitCelsius.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/7.3 FahrenheitCelsius.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/7.3 FahrenheitCelsius.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/7.3 FahrenheitCelsius.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/7.3 FahrenheitCelsius.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/7.3 FahrenheitCelsius.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/refint/7.3 FahrenheitCelsius.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/7.3 FahrenheitCelsius.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/7.3 FahrenheitCelsius.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.3 FahrenheitCelsius/obj/Debug/net8.0/ref/7.3 FahrenheitCelsius.dll

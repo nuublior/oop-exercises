@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/bin/Debug/net8.0/7.5 IncrementMonth
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/bin/Debug/net8.0/7.5 IncrementMonth.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/bin/Debug/net8.0/7.5 IncrementMonth.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/bin/Debug/net8.0/7.5 IncrementMonth.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/bin/Debug/net8.0/7.5 IncrementMonth.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/7.5 IncrementMonth.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/7.5 IncrementMonth.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/7.5 IncrementMonth.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/7.5 IncrementMonth.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/7.5 IncrementMonth.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/7.5 IncrementMonth.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/refint/7.5 IncrementMonth.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/7.5 IncrementMonth.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/7.5 IncrementMonth.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.5 IncrementMonth/obj/Debug/net8.0/ref/7.5 IncrementMonth.dll

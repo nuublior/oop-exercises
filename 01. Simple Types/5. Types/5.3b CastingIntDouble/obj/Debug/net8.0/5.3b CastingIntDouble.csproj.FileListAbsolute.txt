@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/bin/Debug/net8.0/5.3b CastingIntDouble
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/bin/Debug/net8.0/5.3b CastingIntDouble.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/bin/Debug/net8.0/5.3b CastingIntDouble.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/bin/Debug/net8.0/5.3b CastingIntDouble.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/bin/Debug/net8.0/5.3b CastingIntDouble.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/5.3b CastingIntDouble.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/5.3b CastingIntDouble.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/5.3b CastingIntDouble.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/5.3b CastingIntDouble.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/5.3b CastingIntDouble.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/5.3b CastingIntDouble.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/refint/5.3b CastingIntDouble.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/5.3b CastingIntDouble.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/5.3b CastingIntDouble.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3b CastingIntDouble/obj/Debug/net8.0/ref/5.3b CastingIntDouble.dll

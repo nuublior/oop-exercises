@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/bin/Debug/net8.0/7.7 AverageAge
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/bin/Debug/net8.0/7.7 AverageAge.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/bin/Debug/net8.0/7.7 AverageAge.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/bin/Debug/net8.0/7.7 AverageAge.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/bin/Debug/net8.0/7.7 AverageAge.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/7.7 AverageAge.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/7.7 AverageAge.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/7.7 AverageAge.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/7.7 AverageAge.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/7.7 AverageAge.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/7.7 AverageAge.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/refint/7.7 AverageAge.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/7.7 AverageAge.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/7.7 AverageAge.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.7 AverageAge/obj/Debug/net8.0/ref/7.7 AverageAge.dll

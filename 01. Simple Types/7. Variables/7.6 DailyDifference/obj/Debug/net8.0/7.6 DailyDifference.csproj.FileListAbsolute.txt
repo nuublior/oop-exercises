@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/bin/Debug/net8.0/7.6 DailyDifference
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/bin/Debug/net8.0/7.6 DailyDifference.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/bin/Debug/net8.0/7.6 DailyDifference.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/bin/Debug/net8.0/7.6 DailyDifference.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/bin/Debug/net8.0/7.6 DailyDifference.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/7.6 DailyDifference.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/7.6 DailyDifference.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/7.6 DailyDifference.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/7.6 DailyDifference.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/7.6 DailyDifference.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/7.6 DailyDifference.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/refint/7.6 DailyDifference.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/7.6 DailyDifference.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/7.6 DailyDifference.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/7. Variables/7.6 DailyDifference/obj/Debug/net8.0/ref/7.6 DailyDifference.dll

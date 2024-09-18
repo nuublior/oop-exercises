@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/bin/Debug/net8.0/5.3c CastingFloatDouble
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/bin/Debug/net8.0/5.3c CastingFloatDouble.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/bin/Debug/net8.0/5.3c CastingFloatDouble.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/bin/Debug/net8.0/5.3c CastingFloatDouble.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/bin/Debug/net8.0/5.3c CastingFloatDouble.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/5.3c CastingFloatDouble.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/5.3c CastingFloatDouble.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/5.3c CastingFloatDouble.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/5.3c CastingFloatDouble.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/5.3c CastingFloatDouble.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/5.3c CastingFloatDouble.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/refint/5.3c CastingFloatDouble.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/5.3c CastingFloatDouble.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/5.3c CastingFloatDouble.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.3c CastingFloatDouble/obj/Debug/net8.0/ref/5.3c CastingFloatDouble.dll
