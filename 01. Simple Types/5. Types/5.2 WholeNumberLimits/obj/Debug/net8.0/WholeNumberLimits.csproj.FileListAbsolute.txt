@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/bin/Debug/net8.0/WholeNumberLimits
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/bin/Debug/net8.0/WholeNumberLimits.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/bin/Debug/net8.0/WholeNumberLimits.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/bin/Debug/net8.0/WholeNumberLimits.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/bin/Debug/net8.0/WholeNumberLimits.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/WholeNumberLimits.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/WholeNumberLimits.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/WholeNumberLimits.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/WholeNumberLimits.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/WholeNumberLimits.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/WholeNumberLimits.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/refint/WholeNumberLimits.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/WholeNumberLimits.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/WholeNumberLimits.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/01. Simple Types/5. Types/5.2 WholeNumberLimits/obj/Debug/net8.0/ref/WholeNumberLimits.dll
