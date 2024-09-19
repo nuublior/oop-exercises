@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/bin/Debug/net8.0/9.3 ChristmasSale
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/bin/Debug/net8.0/9.3 ChristmasSale.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/bin/Debug/net8.0/9.3 ChristmasSale.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/bin/Debug/net8.0/9.3 ChristmasSale.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/bin/Debug/net8.0/9.3 ChristmasSale.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/9.3 ChristmasSale.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/9.3 ChristmasSale.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/9.3 ChristmasSale.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/9.3 ChristmasSale.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/9.3 ChristmasSale.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/9.3 ChristmasSale.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/refint/9.3 ChristmasSale.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/9.3 ChristmasSale.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/9.3 ChristmasSale.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.3 ChristmasSale/obj/Debug/net8.0/ref/9.3 ChristmasSale.dll

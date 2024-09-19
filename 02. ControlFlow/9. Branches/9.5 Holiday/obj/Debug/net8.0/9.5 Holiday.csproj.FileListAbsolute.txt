@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/bin/Debug/net8.0/9.5 Holiday
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/bin/Debug/net8.0/9.5 Holiday.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/bin/Debug/net8.0/9.5 Holiday.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/bin/Debug/net8.0/9.5 Holiday.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/bin/Debug/net8.0/9.5 Holiday.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/9.5 Holiday.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/9.5 Holiday.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/9.5 Holiday.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/9.5 Holiday.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/9.5 Holiday.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/9.5 Holiday.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/refint/9.5 Holiday.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/9.5 Holiday.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/9.5 Holiday.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.5 Holiday/obj/Debug/net8.0/ref/9.5 Holiday.dll

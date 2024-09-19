@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/bin/Debug/net8.0/12.1 PersonStruct
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/bin/Debug/net8.0/12.1 PersonStruct.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/bin/Debug/net8.0/12.1 PersonStruct.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/bin/Debug/net8.0/12.1 PersonStruct.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/bin/Debug/net8.0/12.1 PersonStruct.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/12.1 PersonStruct.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/12.1 PersonStruct.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/12.1 PersonStruct.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/12.1 PersonStruct.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/12.1 PersonStruct.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/12.1 PersonStruct.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/refint/12.1 PersonStruct.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/12.1 PersonStruct.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/12.1 PersonStruct.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/12. Struct/12.1 PersonStruct/obj/Debug/net8.0/ref/12.1 PersonStruct.dll

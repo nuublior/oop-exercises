@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/bin/Debug/net8.0/11.8 AreaOfCirclesArray
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/bin/Debug/net8.0/11.8 AreaOfCirclesArray.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/bin/Debug/net8.0/11.8 AreaOfCirclesArray.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/bin/Debug/net8.0/11.8 AreaOfCirclesArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/bin/Debug/net8.0/11.8 AreaOfCirclesArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/11.8 AreaOfCirclesArray.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/11.8 AreaOfCirclesArray.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/11.8 AreaOfCirclesArray.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/11.8 AreaOfCirclesArray.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/11.8 AreaOfCirclesArray.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/11.8 AreaOfCirclesArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/refint/11.8 AreaOfCirclesArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/11.8 AreaOfCirclesArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/11.8 AreaOfCirclesArray.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.8 AreaOfCirclesArray/obj/Debug/net8.0/ref/11.8 AreaOfCirclesArray.dll

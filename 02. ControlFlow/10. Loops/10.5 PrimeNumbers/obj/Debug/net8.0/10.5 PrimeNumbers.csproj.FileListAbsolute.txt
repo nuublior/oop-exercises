@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/bin/Debug/net8.0/10.5 PrimeNumbers
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/bin/Debug/net8.0/10.5 PrimeNumbers.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/bin/Debug/net8.0/10.5 PrimeNumbers.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/bin/Debug/net8.0/10.5 PrimeNumbers.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/bin/Debug/net8.0/10.5 PrimeNumbers.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/10.5 PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/10.5 PrimeNumbers.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/10.5 PrimeNumbers.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/10.5 PrimeNumbers.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/10.5 PrimeNumbers.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/10.5 PrimeNumbers.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/refint/10.5 PrimeNumbers.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/10.5 PrimeNumbers.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/10.5 PrimeNumbers.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.5 PrimeNumbers/obj/Debug/net8.0/ref/10.5 PrimeNumbers.dll

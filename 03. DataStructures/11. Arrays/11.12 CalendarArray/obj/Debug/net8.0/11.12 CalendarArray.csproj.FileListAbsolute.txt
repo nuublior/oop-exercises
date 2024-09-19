@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/bin/Debug/net8.0/11.12 CalendarArray
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/bin/Debug/net8.0/11.12 CalendarArray.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/bin/Debug/net8.0/11.12 CalendarArray.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/bin/Debug/net8.0/11.12 CalendarArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/bin/Debug/net8.0/11.12 CalendarArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/11.12 CalendarArray.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/11.12 CalendarArray.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/11.12 CalendarArray.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/11.12 CalendarArray.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/11.12 CalendarArray.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/11.12 CalendarArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/refint/11.12 CalendarArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/11.12 CalendarArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/11.12 CalendarArray.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.12 CalendarArray/obj/Debug/net8.0/ref/11.12 CalendarArray.dll

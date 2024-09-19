@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/bin/Debug/net8.0/11.7 SudokuBoardArray
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/bin/Debug/net8.0/11.7 SudokuBoardArray.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/bin/Debug/net8.0/11.7 SudokuBoardArray.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/bin/Debug/net8.0/11.7 SudokuBoardArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/bin/Debug/net8.0/11.7 SudokuBoardArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/11.7 SudokuBoardArray.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/11.7 SudokuBoardArray.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/11.7 SudokuBoardArray.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/11.7 SudokuBoardArray.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/11.7 SudokuBoardArray.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/11.7 SudokuBoardArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/refint/11.7 SudokuBoardArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/11.7 SudokuBoardArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/11.7 SudokuBoardArray.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.7 SudokuBoardArray/obj/Debug/net8.0/ref/11.7 SudokuBoardArray.dll

@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/bin/Debug/net8.0/10.4 AreaOfCirclesLoop
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/bin/Debug/net8.0/10.4 AreaOfCirclesLoop.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/bin/Debug/net8.0/10.4 AreaOfCirclesLoop.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/bin/Debug/net8.0/10.4 AreaOfCirclesLoop.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/bin/Debug/net8.0/10.4 AreaOfCirclesLoop.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/10.4 AreaOfCirclesLoop.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/10.4 AreaOfCirclesLoop.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/10.4 AreaOfCirclesLoop.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/10.4 AreaOfCirclesLoop.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/10.4 AreaOfCirclesLoop.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/10.4 AreaOfCirclesLoop.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/refint/10.4 AreaOfCirclesLoop.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/10.4 AreaOfCirclesLoop.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/10.4 AreaOfCirclesLoop.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.4 AreaOfCirclesLoop/obj/Debug/net8.0/ref/10.4 AreaOfCirclesLoop.dll

@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/bin/Debug/net8.0/11.9 DailyDifferencesArray
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/bin/Debug/net8.0/11.9 DailyDifferencesArray.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/bin/Debug/net8.0/11.9 DailyDifferencesArray.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/bin/Debug/net8.0/11.9 DailyDifferencesArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/bin/Debug/net8.0/11.9 DailyDifferencesArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/11.9 DailyDifferencesArray.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/11.9 DailyDifferencesArray.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/11.9 DailyDifferencesArray.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/11.9 DailyDifferencesArray.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/11.9 DailyDifferencesArray.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/11.9 DailyDifferencesArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/refint/11.9 DailyDifferencesArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/11.9 DailyDifferencesArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/11.9 DailyDifferencesArray.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.9 DailyDifferencesArray/obj/Debug/net8.0/ref/11.9 DailyDifferencesArray.dll

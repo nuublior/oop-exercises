@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/bin/Debug/net8.0/11.4 BiggestArray
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/bin/Debug/net8.0/11.4 BiggestArray.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/bin/Debug/net8.0/11.4 BiggestArray.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/bin/Debug/net8.0/11.4 BiggestArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/bin/Debug/net8.0/11.4 BiggestArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/11.4 BiggestArray.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/11.4 BiggestArray.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/11.4 BiggestArray.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/11.4 BiggestArray.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/11.4 BiggestArray.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/11.4 BiggestArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/refint/11.4 BiggestArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/11.4 BiggestArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/11.4 BiggestArray.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.4 BiggestArray/obj/Debug/net8.0/ref/11.4 BiggestArray.dll

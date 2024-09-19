@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/bin/Debug/net8.0/13.1 DirectionEnum
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/bin/Debug/net8.0/13.1 DirectionEnum.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/bin/Debug/net8.0/13.1 DirectionEnum.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/bin/Debug/net8.0/13.1 DirectionEnum.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/bin/Debug/net8.0/13.1 DirectionEnum.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/13.1 DirectionEnum.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/13.1 DirectionEnum.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/13.1 DirectionEnum.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/13.1 DirectionEnum.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/13.1 DirectionEnum.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/13.1 DirectionEnum.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/refint/13.1 DirectionEnum.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/13.1 DirectionEnum.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/13.1 DirectionEnum.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/13. Enum/13.1 DirectionEnum/obj/Debug/net8.0/ref/13.1 DirectionEnum.dll

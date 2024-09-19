@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/bin/Debug/net8.0/11.5 SizeArray
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/bin/Debug/net8.0/11.5 SizeArray.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/bin/Debug/net8.0/11.5 SizeArray.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/bin/Debug/net8.0/11.5 SizeArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/bin/Debug/net8.0/11.5 SizeArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/11.5 SizeArray.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/11.5 SizeArray.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/11.5 SizeArray.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/11.5 SizeArray.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/11.5 SizeArray.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/11.5 SizeArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/refint/11.5 SizeArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/11.5 SizeArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/11.5 SizeArray.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.5 SizeArray/obj/Debug/net8.0/ref/11.5 SizeArray.dll

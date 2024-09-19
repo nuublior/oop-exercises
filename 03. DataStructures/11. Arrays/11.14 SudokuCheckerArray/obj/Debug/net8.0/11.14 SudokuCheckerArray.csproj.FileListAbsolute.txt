@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/bin/Debug/net8.0/11.14 SudokuCheckerArray
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/bin/Debug/net8.0/11.14 SudokuCheckerArray.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/bin/Debug/net8.0/11.14 SudokuCheckerArray.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/bin/Debug/net8.0/11.14 SudokuCheckerArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/bin/Debug/net8.0/11.14 SudokuCheckerArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/11.14 SudokuCheckerArray.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/11.14 SudokuCheckerArray.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/11.14 SudokuCheckerArray.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/11.14 SudokuCheckerArray.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/11.14 SudokuCheckerArray.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/11.14 SudokuCheckerArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/refint/11.14 SudokuCheckerArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/11.14 SudokuCheckerArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/11.14 SudokuCheckerArray.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.14 SudokuCheckerArray/obj/Debug/net8.0/ref/11.14 SudokuCheckerArray.dll

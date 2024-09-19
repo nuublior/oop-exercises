@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/bin/Debug/net8.0/11.3 ContentVsArray
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/bin/Debug/net8.0/11.3 ContentVsArray.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/bin/Debug/net8.0/11.3 ContentVsArray.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/bin/Debug/net8.0/11.3 ContentVsArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/bin/Debug/net8.0/11.3 ContentVsArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/11.3 ContentVsArray.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/11.3 ContentVsArray.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/11.3 ContentVsArray.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/11.3 ContentVsArray.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/11.3 ContentVsArray.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/11.3 ContentVsArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/refint/11.3 ContentVsArray.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/11.3 ContentVsArray.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/11.3 ContentVsArray.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/03. DataStructures/11. Arrays/11.3 ContentVsArray/obj/Debug/net8.0/ref/11.3 ContentVsArray.dll

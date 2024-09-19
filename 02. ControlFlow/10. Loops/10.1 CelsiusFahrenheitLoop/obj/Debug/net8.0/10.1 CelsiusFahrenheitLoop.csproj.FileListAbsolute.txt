@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/bin/Debug/net8.0/10.1 CelsiusFahrenheitLoop
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/bin/Debug/net8.0/10.1 CelsiusFahrenheitLoop.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/bin/Debug/net8.0/10.1 CelsiusFahrenheitLoop.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/bin/Debug/net8.0/10.1 CelsiusFahrenheitLoop.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/bin/Debug/net8.0/10.1 CelsiusFahrenheitLoop.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/10.1 CelsiusFahrenheitLoop.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/10.1 CelsiusFahrenheitLoop.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/10.1 CelsiusFahrenheitLoop.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/10.1 CelsiusFahrenheitLoop.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/10.1 CelsiusFahrenheitLoop.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/10.1 CelsiusFahrenheitLoop.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/refint/10.1 CelsiusFahrenheitLoop.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/10.1 CelsiusFahrenheitLoop.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/10.1 CelsiusFahrenheitLoop.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/10. Loops/10.1 CelsiusFahrenheitLoop/obj/Debug/net8.0/ref/10.1 CelsiusFahrenheitLoop.dll

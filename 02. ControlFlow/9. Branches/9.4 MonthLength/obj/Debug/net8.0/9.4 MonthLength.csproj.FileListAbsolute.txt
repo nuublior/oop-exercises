@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/bin/Debug/net8.0/9.4 MonthLength
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/bin/Debug/net8.0/9.4 MonthLength.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/bin/Debug/net8.0/9.4 MonthLength.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/bin/Debug/net8.0/9.4 MonthLength.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/bin/Debug/net8.0/9.4 MonthLength.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/9.4 MonthLength.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/9.4 MonthLength.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/9.4 MonthLength.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/9.4 MonthLength.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/9.4 MonthLength.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/9.4 MonthLength.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/refint/9.4 MonthLength.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/9.4 MonthLength.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/9.4 MonthLength.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/9. Branches/9.4 MonthLength/obj/Debug/net8.0/ref/9.4 MonthLength.dll

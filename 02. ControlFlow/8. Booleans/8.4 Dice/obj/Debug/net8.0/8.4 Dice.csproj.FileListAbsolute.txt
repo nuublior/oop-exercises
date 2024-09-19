@@ -1,0 +1,15 @@
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/bin/Debug/net8.0/8.4 Dice
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/bin/Debug/net8.0/8.4 Dice.deps.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/bin/Debug/net8.0/8.4 Dice.runtimeconfig.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/bin/Debug/net8.0/8.4 Dice.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/bin/Debug/net8.0/8.4 Dice.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/8.4 Dice.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/8.4 Dice.AssemblyInfoInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/8.4 Dice.AssemblyInfo.cs
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/8.4 Dice.csproj.CoreCompileInputs.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/8.4 Dice.sourcelink.json
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/8.4 Dice.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/refint/8.4 Dice.dll
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/8.4 Dice.pdb
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/8.4 Dice.genruntimeconfig.cache
+/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/02. Control Flow/8. Booleans/8.4 Dice/obj/Debug/net8.0/ref/8.4 Dice.dll
