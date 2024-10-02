@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "/home/nuublior/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\OOPE\\oop-exercises\\07. Objects\\18.1 CustomersObjects\\18.1 CustomersObjects.csproj",
+      "projectUniqueName": "/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/07. Objects/18.1 CustomersObjects/18.1 CustomersObjects.csproj",
       "projectName": "18.1 CustomersObjects",
-      "projectPath": "C:\\Users\\andre\\Desktop\\OOPE\\oop-exercises\\07. Objects\\18.1 CustomersObjects\\18.1 CustomersObjects.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Desktop\\OOPE\\oop-exercises\\07. Objects\\18.1 CustomersObjects\\obj\\",
+      "projectPath": "/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/07. Objects/18.1 CustomersObjects/18.1 CustomersObjects.csproj",
+      "packagesPath": "/home/nuublior/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/07. Objects/18.1 CustomersObjects/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/nuublior/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/nuublior/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

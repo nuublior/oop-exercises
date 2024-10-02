@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("18.2 CustomerDatabaseObjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16c2ae67a76883bf9550a832d109779ccdb20f91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54a1adaf9f4a638238f3d6298322233ecb186314")]
 [assembly: System.Reflection.AssemblyProductAttribute("18.2 CustomerDatabaseObjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("18.2 CustomerDatabaseObjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

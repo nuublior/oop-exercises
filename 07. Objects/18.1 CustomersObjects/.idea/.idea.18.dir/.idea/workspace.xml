@@ -7,7 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc96abd-6d8c-4a86-90ef-52eb49e28ae5" name="Changes" comment="" />
+    <list default="true" id="5cc96abd-6d8c-4a86-90ef-52eb49e28ae5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.18.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.18.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/18.1 CustomersObjects.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/18.1 CustomersObjects.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/18.1 CustomersObjects.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/18.1 CustomersObjects.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.2 CustomerDatabaseObjects/.idea/.idea.18.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18.2 CustomerDatabaseObjects/.idea/.idea.18.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.2 CustomerDatabaseObjects/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../18.2 CustomerDatabaseObjects/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.2 CustomerDatabaseObjects/obj/Debug/net8.0/18.2 CustomerDatabaseObjects.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../18.2 CustomerDatabaseObjects/obj/Debug/net8.0/18.2 CustomerDatabaseObjects.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.2 CustomerDatabaseObjects/obj/Debug/net8.0/18.2 CustomerDatabaseObjects.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../18.2 CustomerDatabaseObjects/obj/Debug/net8.0/18.2 CustomerDatabaseObjects.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +80,9 @@
       <workItem from="1727859075042" duration="587000" />
       <workItem from="1727859762477" duration="3357000" />
       <workItem from="1727863291834" duration="216000" />
+      <workItem from="1727863612152" duration="737000" />
+      <workItem from="1727884675798" duration="375000" />
+      <workItem from="1727885549308" duration="7000" />
     </task>
     <servers />
   </component>

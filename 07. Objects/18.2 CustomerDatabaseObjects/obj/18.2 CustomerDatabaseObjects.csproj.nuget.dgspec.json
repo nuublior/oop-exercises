@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Desktop\\OOPE\\oop-exercises\\07. Objects\\18.2 CustomerDatabaseObjects\\18.2 CustomerDatabaseObjects.csproj": {}
+    "/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/07. Objects/18.2 CustomerDatabaseObjects/18.2 CustomerDatabaseObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Desktop\\OOPE\\oop-exercises\\07. Objects\\18.2 CustomerDatabaseObjects\\18.2 CustomerDatabaseObjects.csproj": {
+    "/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/07. Objects/18.2 CustomerDatabaseObjects/18.2 CustomerDatabaseObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Desktop\\OOPE\\oop-exercises\\07. Objects\\18.2 CustomerDatabaseObjects\\18.2 CustomerDatabaseObjects.csproj",
+        "projectUniqueName": "/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/07. Objects/18.2 CustomerDatabaseObjects/18.2 CustomerDatabaseObjects.csproj",
         "projectName": "18.2 CustomerDatabaseObjects",
-        "projectPath": "C:\\Users\\andre\\Desktop\\OOPE\\oop-exercises\\07. Objects\\18.2 CustomerDatabaseObjects\\18.2 CustomerDatabaseObjects.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Desktop\\OOPE\\oop-exercises\\07. Objects\\18.2 CustomerDatabaseObjects\\obj\\",
+        "projectPath": "/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/07. Objects/18.2 CustomerDatabaseObjects/18.2 CustomerDatabaseObjects.csproj",
+        "packagesPath": "/home/nuublior/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/andre/Desktop/OOPE/oop-exercises/07. Objects/18.2 CustomerDatabaseObjects/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/nuublior/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/nuublior/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
