@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "22.2 Timing/1.0.0": {
+        "runtime": {
+          "22.2 Timing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "22.2 Timing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
