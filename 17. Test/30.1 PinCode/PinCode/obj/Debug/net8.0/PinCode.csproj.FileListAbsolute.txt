@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\bin\Debug\net8.0\PinCode.exe
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\bin\Debug\net8.0\PinCode.deps.json
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\bin\Debug\net8.0\PinCode.runtimeconfig.json
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\bin\Debug\net8.0\PinCode.dll
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\bin\Debug\net8.0\PinCode.pdb
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\PinCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\PinCode.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\PinCode.AssemblyInfo.cs
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\PinCode.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\PinCode.sourcelink.json
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\PinCode.dll
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\refint\PinCode.dll
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\PinCode.pdb
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\PinCode.genruntimeconfig.cache
+C:\Users\andre\Desktop\OOPE\oop-exercises\17. Test\30.1 PinCode\PinCode\obj\Debug\net8.0\ref\PinCode.dll
